@@ -73,6 +73,23 @@
             height="40"
           />
         </a>
+        <a href="https://www.cplusplus.com/" target="_blank">
+          <img
+            src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg"
+            alt="C++"
+            width="40"
+            height="40"
+          />
+        </a>
+        </a>
+         <a href="https://www.cprogramming.com/" target="_blank">
+          <img
+            src="https://profilinator.rishav.dev/skills-assets/c-original.svg"
+            alt="c"
+            width="40"
+            height="40"
+          />
+        </a>
       </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Kumar12&show_icons=true&locale=en" alt="Nikhil-Kumar12" /></p>
